@@ -4,7 +4,7 @@ angular.module('app', [])
   var vm = this;
   vm.message = 'Hello world';
   vm.title = "Hypno.AI";
-  vm.desc = "Our organisation aims to spend the next 10-15 years creating a brain-computing interface."
+  vm.desc = "Bringing the web to hypnosis."
 }]);
 
 setTimeout(function() {
